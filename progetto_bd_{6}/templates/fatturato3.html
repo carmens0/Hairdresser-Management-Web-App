@@ -1,0 +1,10 @@
+<table border = 1>
+  <tr><th>Nome anagrafica<th>Importo Totale</tr>
+  {% for i in record %}
+
+    <td> {{i[0]}} </td>
+    <td> {{i[1]}} </td>
+<tr>
+  {% endfor %}
+</table>
+<a href="http://localhost:5000/">Home<a/>

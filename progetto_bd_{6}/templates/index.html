@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}}</title>
+  <!-- link rel="stylesheet" href="/css/style.css"-->
+</head>
+<body>
+  <h1>Gruppo 6: Gestione attività</h1>
+  <tspan x="20" dy="20">Capaldo Gennaro, Diletto Alessandro Pio, Senatore Carmela Pia</tspan>
+  <!-- script src="/app/app.js"></script-->
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}}</title>
+  <!-- link rel="stylesheet" href="/css/style.css"-->
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="/InsProdotto">Inserire nuovo prodotto</a></li>
+      <li><a href="/InsDipendente">Inserire Nuovo Dipendente</a></li>
+      <li><a href="/InsPrenotazione">Inserire nuova prenotazione</a></li>
+      <li><a href="/VisPrenotazioni1">Visualizza prenotazione tramide id_prenotazione</a></li>
+      <li><a href="/VisCassa">Visualizza il totale guadagnato in un dato giorno</a></li>
+      <li><a href="/VisFeed">Visualizza i feedback di 1 o tutto il personale<a/></li>
+      <li><a href="/VisCliente">Visualizza lo storico di un cliente inserendo il suo id<a/></li>
+      <li><a href="/VisTratt">Visualizza i trattamenti svolti da un membro del personale dato una data e il suo id<a/></li>
+      <li><a href="/VisFatturato">Visualizza il totale fatturato in un determinato periodo di tempo<a/></li>
+      <li><a href="/VisFattTratt">Visualizza il totale fatturato di una specifica anagrafica<a/></li>
+    </ul>
+  </nav>
+  {% block content %}{% endblock %}
+  <!-- script src="/app/app.js"></script-->
+</body>
+</html>

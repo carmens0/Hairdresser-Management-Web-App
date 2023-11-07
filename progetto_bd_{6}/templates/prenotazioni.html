@@ -1,0 +1,13 @@
+<table border = 1>
+  <tr><th>Data<th>Ora<th>Id Cliente</tr>
+  {% for prenotazioni in record %}
+
+    <td> {{prenotazioni[0]}} </td>
+    <td> {{prenotazioni[1]}} </td>
+    <td> {{prenotazioni[2]}} </td>
+    <td> {{prenotazioni[3]}} </td>
+
+  <tr>
+  {% endfor %}
+</table>
+<a href="http://localhost:5000/">Home<a/>

@@ -1,0 +1,13 @@
+<table border = 1>
+  <tr><th>Nome<th>Cognome<th> Trattamento<th> Data</tr>
+  {% for i in record %}
+
+    <td> {{i[0]}} </td>
+    <td> {{i[1]}} </td>
+    <td> {{i[2]}} </td>
+    <td> {{i[3]}} </td>
+
+  <tr>
+  {% endfor %}
+</table>
+<a href="http://localhost:5000/">Home<a/>

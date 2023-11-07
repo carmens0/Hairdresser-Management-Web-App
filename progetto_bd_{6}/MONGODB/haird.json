@@ -1,0 +1,2601 @@
+[{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065ca"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065cb"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065cc"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1649116800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065cd"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065ce"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651708800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065cf"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651708800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d0"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d1"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 1,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d2"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d3"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d4"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 1,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d5"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d6"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d7"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d8"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065d9"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065da"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 1,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065db"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065dc"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065dd"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065de"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 1,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065df"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 1,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e0"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650844800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e1"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650844800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e2"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e3"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e4"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e5"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e6"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e7"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 1,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e8"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651017600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065e9"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065ea"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651017600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065eb"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651017600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065ec"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065ed"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 1,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651104000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065ee"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651104000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065ef"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f0"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651104000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f1"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f2"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f3"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f4"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f5"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f6"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f7"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651276800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f8"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065f9"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651276800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065fa"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065fb"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651363200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065fc"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 1,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651363200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065fd"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065fe"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 2,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651363200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a065ff"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06600"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06601"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06602"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 1,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06603"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06604"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06605"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06606"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06607"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06608"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06609"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 4,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0660a"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 5,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0660b"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651622400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0660c"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": null,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651622400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0660d"
+  },
+  "Nome": "Jarrad",
+  "cognome": "Tollet",
+  "punteggio": 3,
+  "id_personale": "1",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0660e"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0660f"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06610"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06611"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": null,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06612"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06613"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06614"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06615"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": null,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06616"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06617"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06618"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06619"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0661a"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0661b"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0661c"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0661d"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0661e"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0661f"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06620"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 1,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06621"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06622"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": null,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650844800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06623"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 1,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650844800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06624"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06625"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06626"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 1,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650844800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06627"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06628"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06629"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 1,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0662a"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0662b"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0662c"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651017600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0662d"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651017600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0662e"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 1,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0662f"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": null,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651104000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06630"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 1,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651104000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06631"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06632"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 1,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651104000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06633"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651104000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06634"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06635"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06636"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06637"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06638"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06639"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651276800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0663a"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651276800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0663b"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0663c"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 1,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651276800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0663d"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651276800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0663e"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0663f"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651363200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06640"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651363200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06641"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06642"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651363200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06643"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06644"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06645"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06646"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 5,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06647"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06648"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 3,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06649"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": null,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0664a"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0664b"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 1,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0664c"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": null,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0664d"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 2,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651622400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0664e"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": 4,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0664f"
+  },
+  "Nome": "Moishe",
+  "cognome": "Laterza",
+  "punteggio": null,
+  "id_personale": "2",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06650"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651708800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06651"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 3,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651708800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06652"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06653"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 2,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651708800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06654"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06655"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 3,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06656"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06657"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 3,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06658"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06659"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 3,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0665a"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0665b"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0665c"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 2,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0665d"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0665e"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0665f"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06660"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06661"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 3,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651795200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06662"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06663"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 3,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06664"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650844800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06665"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650844800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06666"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06667"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650844800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06668"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06669"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 3,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0666a"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0666b"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0666c"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0666d"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1650931200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0666e"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651017600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0666f"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 2,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651017600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06670"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06671"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06672"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651104000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06673"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651104000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06674"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06675"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06676"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06677"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06678"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06679"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0667a"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0667b"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651276800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0667c"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": null,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0667d"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651276800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0667e"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 2,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651276800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0667f"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06680"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06681"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651363200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06682"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06683"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651363200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06684"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651363200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06685"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06686"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06687"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06688"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 3,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651449600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06689"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0668a"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0668b"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 1,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652054400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0668c"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0668d"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 2,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0668e"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 5,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a0668f"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 4,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06690"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 3,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1652140800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628debcce9ab75c713a06691"
+  },
+  "Nome": "Koressa",
+  "cognome": "Blackburne",
+  "punteggio": 2,
+  "id_personale": "3",
+  "data_prenotazione": {
+    "$date": {
+      "$numberLong": "1651622400000"
+    }
+  }
+}]
