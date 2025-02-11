@@ -1,5 +1,5 @@
 # 💇‍♂️ Hairdresser Management Web App
-
+<img src="./fig/portfolio-3.png" width="800" class="center">
 ## 📌 Descrizione
 Questo progetto consiste in una **Web App** sviluppata con **Flask** per gestire un **database di un negozio di parrucchieri**. L'applicazione permette di gestire prenotazioni, dipendenti, prodotti e flussi di cassa in modo semplice e intuitivo.
 
